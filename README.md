@@ -33,5 +33,5 @@ This project applies modern data analytics workflows to environmental and teleme
 
 ---
 
-**Author:** Dr. Sri Kasi Matta — Technical Data Professional | Brisbane, QLD  
+**Author:** Sri Kasi Matta — Technical Data Professional | Brisbane, QLD  
 [github.com/srikasi](https://github.com)
